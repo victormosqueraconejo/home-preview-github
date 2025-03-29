@@ -1,7 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-//import "../logic-components/MainHome.js"
 
 import HeaderHome from '../containers/HeaderHome.jsx'
 import HeroHomeSection from '../containers/HeroHomeSection.jsx'
